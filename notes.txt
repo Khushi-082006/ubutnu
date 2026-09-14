@@ -1,0 +1,5 @@
+Development Notes
+
+TODO: Review memory allocation in utils.c
+TODO: Add more test cases
+Remember to check error handling.

@@ -1,0 +1,11 @@
+2026-09-10 09:15:02 INFO Application started
+2026-09-10 09:16:11 INFO Loading configuration
+2026-09-10 09:17:45 ERROR Failed to connect to database
+2026-09-10 09:18:03 INFO Retrying connection
+2026-09-10 09:18:15 ERROR Connection timeout
+2026-09-10 09:19:21 WARNING Using fallback configuration
+2026-09-10 09:20:10 INFO Service running
+2026-09-10 09:22:42 ERROR Failed to read user data
+2026-09-10 09:23:17 INFO Request completed
+2026-09-10 09:24:08 ERROR Invalid configuration value
+2026-09-10 09:25:33 INFO Application stopped
